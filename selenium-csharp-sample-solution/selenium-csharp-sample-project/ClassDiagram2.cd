@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SravniRuTests.Finalizer" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Finalizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.ApplicationManager" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAgAAAAAAAAACAAgAAAAAAAABAAAAA=</HashCode>
+      <FileName>impl\ApplicationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.LoginHelper" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAIEAAAAAAAAAAASAAAAAAE=</HashCode>
+      <FileName>impl\LoginHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.NavigationHelper" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>impl\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.LoginTestsNegative" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoginTestsNegative.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.LoginTestsPositive" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoginTestsPositive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.AccountData" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAQAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>model\AccountData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.AnyPage" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAACAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pages\AnyPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.InternalPage" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>pages\InternalPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.LoginPage" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAABAAAAAAQAAAAAAAAAAAACAA=</HashCode>
+      <FileName>pages\LoginPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.PageManager" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAIAAAACAAAQAAAAAAAAQIAAAAAA=</HashCode>
+      <FileName>pages\PageManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.UserProfilePage" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pages\UserProfilePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.TestBase" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>TestBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.WebDriverFactory" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEIAAAAAAAIAAAADCAAAAAIBQAAAAAAIhAAhAAAA=</HashCode>
+      <FileName>WebDriverFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

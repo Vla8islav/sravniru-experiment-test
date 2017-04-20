@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SravniRuTests.TestBase">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>TestBase.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="app" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SravniRuTests.LoginTestsNegative" Collapsed="true">
+    <Position X="2" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoginTestsNegative.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.LoginTestsPositive" Collapsed="true">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoginTestsPositive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.ApplicationManager">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAgAAAAAAAAACAAgAAAAAAAABAAAAA=</HashCode>
+      <FileName>impl\ApplicationManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Auth" />
+      <Property Name="Navigator" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SravniRuTests.LoginHelper">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAIEAAAAAAAAAAASAAAAAAE=</HashCode>
+      <FileName>impl\LoginHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SravniRuTests.NavigationHelper" Collapsed="true">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>impl\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
